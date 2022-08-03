@@ -1,0 +1,15 @@
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\bin\Debug\net6.0\Priority_Queue.exe
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\bin\Debug\net6.0\Priority_Queue.deps.json
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\bin\Debug\net6.0\Priority_Queue.runtimeconfig.json
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\bin\Debug\net6.0\Priority_Queue.dll
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\bin\Debug\net6.0\ref\Priority_Queue.dll
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\bin\Debug\net6.0\Priority_Queue.pdb
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\obj\Debug\net6.0\Priority_Queue.csproj.AssemblyReference.cache
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\obj\Debug\net6.0\Priority_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\obj\Debug\net6.0\Priority_Queue.AssemblyInfoInputs.cache
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\obj\Debug\net6.0\Priority_Queue.AssemblyInfo.cs
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\obj\Debug\net6.0\Priority_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\obj\Debug\net6.0\Priority_Queue.dll
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\obj\Debug\net6.0\ref\Priority_Queue.dll
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\obj\Debug\net6.0\Priority_Queue.pdb
+C:\Users\Mahdi\source\repos\Priority_Queue\Priority_Queue\obj\Debug\net6.0\Priority_Queue.genruntimeconfig.cache
